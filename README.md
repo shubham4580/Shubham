@@ -117,5 +117,5 @@ EEE Graduate • AI & Data Science Enthusiast • Cybersecurity Learner
 ---
 
 <h3 align="center">
-⚡ Building intelligent and secure technologies for the future ⚡
+
 </h3>
