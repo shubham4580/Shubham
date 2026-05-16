@@ -25,13 +25,53 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,linux,mysql,vscode" />
+  <a href="https://www.w3schools.com/python/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+
+  <a href="https://www.w3schools.com/c/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
+  <a href="https://www.netacad.com/courses/os-it/linux-unhatched" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
 
-### 📊 Data Science & AI
+---
+
+## 📊 Data Science & AI
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <a href="https://www.tensorflow.org/learn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+
+  <a href="https://pytorch.org/tutorials/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
 </p>
 
 - Python  
@@ -43,11 +83,15 @@
 - Machine Learning  
 - Deep Learning  
 
-### 🔐 Cybersecurity
+---
+
+## 🔐 Cybersecurity
+
 - Networking Basics  
 - Linux Fundamentals  
 - Ethical Hacking Basics  
 - Cybersecurity Concepts  
+- Cisco Networking & Security Learning  
 
 ---
 
@@ -79,14 +123,16 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-kumar-0a0b6324a/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/shubham-kumar-0a0b6324a/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 
-<a href="https://github.com/shubham4580" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://github.com/shubham4580" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 </p>
+
+📧 Email: **shubhamkatariya844@gmail.com**
 
 ---
 
