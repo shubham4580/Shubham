@@ -63,7 +63,7 @@ EEE Graduate • AI & Data Science Enthusiast • Cybersecurity Learner
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham4580&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4580&theme=tokyonight" height="180em"/>
 </p>
 ---
 
