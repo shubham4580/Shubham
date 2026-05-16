@@ -1,9 +1,10 @@
+```md
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">EEE Graduate | AI & Data Science Enthusiast | Cybersecurity Learner</h3>
 
 <p align="center">
   <a href="https://github.com/shubham4580">
-    <img src="https://komarev.com/ghpvc/?username=shubham4580&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=shubham4580&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
@@ -27,71 +28,61 @@
 ### 👨‍💻 Languages & Tools
 
 <p align="left">
-  <a href="https://www.w3schools.com/python/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" />
-  </a>
+<a href="https://www.netacad.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
 
-  <a href="https://www.w3schools.com/c/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
+<a href="https://www.netacad.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
 
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
+<a href="https://www.netacad.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" />
+</a>
 
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
 
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
+<a href="https://docs.github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
+<a href="https://www.netacad.com/courses/os-it/linux-unhatched" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
 
-  <a href="https://www.netacad.com/courses/os-it/linux-unhatched" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
+<a href="https://www.netacad.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://code.visualstudio.com/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.tensorflow.org/learn" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</a>
+
+<a href="https://pytorch.org/tutorials/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</a>
+
 </p>
 
 ---
 
-## 📊 Data Science & AI
+## 📚 Learning & Interests
 
-<p align="left">
-  <a href="https://www.tensorflow.org/learn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
-  </a>
-
-  <a href="https://pytorch.org/tutorials/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-  </a>
-</p>
-
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-Learn  
-- TensorFlow  
 - Machine Learning  
 - Deep Learning  
-
----
-
-## 🔐 Cybersecurity
-
-- Networking Basics  
-- Linux Fundamentals  
-- Ethical Hacking Basics  
-- Cybersecurity Concepts  
-- Cisco Networking & Security Learning  
+- Data Science  
+- Cybersecurity  
+- Ethical Hacking  
+- Networking  
+- Linux  
+- Automation  
 
 ---
 
@@ -123,17 +114,22 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-kumar-0a0b6324a/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
 
-  <a href="https://github.com/shubham4580" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+<a href="https://www.linkedin.com/in/shubham-kumar-0a0b6324a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/shubham4580" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="mailto:shubhamkatariya844@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
-
-📧 Email: **shubhamkatariya844@gmail.com**
 
 ---
 
 <h3 align="center">⚡ Building intelligent and secure technologies for the future ⚡</h3>
+```
